@@ -1,7 +1,11 @@
 ## PipeExtractor
 [![](https://jitpack.io/v/abhiram79/PipeExtractor.svg)](https://jitpack.io/#abhiram79/PipeExtractor)
 <br>
-[Get Flowtune](https://github.com/abhiram79/Flowtune)
+
+### ⚠️ Project is not maintained anymore 
+
+<br>
+
 
 
 
